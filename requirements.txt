@@ -8,3 +8,5 @@ tldextract
 rich
 aiosqlite
 aiofiles
+playwright
+playwright-stealth
