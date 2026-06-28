@@ -1,0 +1,10 @@
+aiohttp
+uvloop
+selectolax
+orjson
+dnspython
+aiodns
+tldextract
+rich
+aiosqlite
+aiofiles
